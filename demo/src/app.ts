@@ -135,7 +135,7 @@ const server = new NanoProxyServer(express(), {
         // 'unchecked_get',
         // 'unchecked_keys',
         'validate_account_number',
-        // 'version',
+        'version',
         // 'wallet_add',
         // 'wallet_add_watch',
         // 'wallet_balance_total',
